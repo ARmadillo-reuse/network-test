@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Network Test</string>
+    <string name="button_start_download">Start Download!</string>
+    <string name="download_finish_message">Finished downloading %1$d bytes in %2$.3f seconds from %3$s</string>
+
+</resources>
